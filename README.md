@@ -4,7 +4,7 @@
 This project represents the cummulation of my dedication to Administrative Creativity. It serves as a showcase of my skills, passion, and the projects I've had the privilege to work on.
 
 **Overview**       
-This portfolio website is a reflection of my journey as a Virtual Assistantr. It highlights the various projects I have worked on, the skills I have acquired, and my commitment to continuous learning. The website is designed to offer a user-friendly and visually appealing experience, presenting my work in a professional manner.
+This portfolio website is a reflection of my journey as a Virtual Assistant. It highlights the various projects I have worked on, the skills I have acquired, and my commitment to continuous learning. The website is designed to offer a user-friendly and visually appealing experience, presenting my work in a professional manner.
 
 **Key Features**
 - Project Showcase: A dedicated section highlighting the projects I have completed, including details and live links.
