@@ -214,7 +214,7 @@ a .fa-envelope {
 #client-skills .section-title {
   text-align: center;
   font-size: 4rem;
-  color: #046ea7; /* Blue shade */
+  color: var(--accent-color); /* Blue shade */
   margin-bottom: 60px;
   font-weight: 800;
 }
@@ -240,7 +240,7 @@ a .fa-envelope {
 #client-skills .skills-card h3 {
   font-size: 2.2rem;
   margin-bottom: 20px;
-  color: #046ea7; /* Blue heading */
+  color: var(--accent-color); /* Blue heading */
   font-weight: 800;
 }
 
@@ -249,23 +249,23 @@ a .fa-envelope {
 }
 
 #client-skills .skills-card ul li {
-  font-size: 1.6rem;
-  color: #ffffff; /* White text */
+  font-size: 3rem;
+  color: var(--accent-color); /* White text */
   margin-bottom: 12px;
   position: relative;
   padding-left: 20px;
 }
 
 /* Blue check icon */
-#client-skills .skills-card ul li::before {
+#client-skills.skills-card ul.li::before {
   content: "✔";
   position: absolute;
   left: 0;
-  color: #04abee; /* lighter blue shade */
+  color: var(--accent-color); /* lighter blue shade */
   font-size: 1.4rem;
 }
 #skills h2 {
-  color: #046ea7;
+  color: #;
   font-size: 5rem;
   text-align: center;
   padding-top: 100px;
